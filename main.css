@@ -316,10 +316,10 @@ body {
   font-weight: 400;
   font-style: normal;
   font-size: 40px;
-  color: #fc6885;
+  color: #920f29;
   background-color: transparent;
   border: none;
-  text-shadow: 0 0 10px pink;
+  text-shadow: 0 0 10px rgb(88, 74, 76);
 }
 
 .openBtn:hover {
